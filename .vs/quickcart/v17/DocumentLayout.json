@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C165135E-C2C3-420C-98DF-19FA7C1070E0}|quickcart\\quickcart.csproj|c:\\users\\thebe\\onedrive\\desktop\\quickcart\\quickcart\\quickcart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C165135E-C2C3-420C-98DF-19FA7C1070E0}|quickcart\\quickcart.csproj|solutionrelative:quickcart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C165135E-C2C3-420C-98DF-19FA7C1070E0}|quickcart\\quickcart.csproj|c:\\users\\thebe\\onedrive\\desktop\\quickcart\\quickcart\\quickcart\\wwwroot\\css\\home-index-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C165135E-C2C3-420C-98DF-19FA7C1070E0}|quickcart\\quickcart.csproj|solutionrelative:quickcart\\wwwroot\\css\\home-index-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C165135E-C2C3-420C-98DF-19FA7C1070E0}|quickcart\\quickcart.csproj|c:\\users\\thebe\\onedrive\\desktop\\quickcart\\quickcart\\quickcart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -18,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home-index-style.css",
+              "DocumentMoniker": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\wwwroot\\css\\home-index-style.css",
+              "RelativeDocumentMoniker": "quickcart\\wwwroot\\css\\home-index-style.css",
+              "ToolTip": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\wwwroot\\css\\home-index-style.css",
+              "RelativeToolTip": "quickcart\\wwwroot\\css\\home-index-style.css",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-04T00:04:41.604Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,22 +41,9 @@
               "RelativeDocumentMoniker": "quickcart\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "quickcart\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-03T09:47:06.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "quickcart\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "quickcart\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T09:36:06.625Z",
               "EditorCaption": ""
             }
           ]

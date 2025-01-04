@@ -5,6 +5,7 @@ C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\wwwroot\lib\bootst
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\wwwroot\css\home-index-style.css
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\wwwroot\lib\bootstrap\dist\js\bootstrap.js
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\wwwroot\lib\jquery-validation\LICENSE.md
@@ -60,6 +61,7 @@ C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\wwwroot\lib\bootst
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\wwwroot\css\site.css
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\css\home-index-style.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

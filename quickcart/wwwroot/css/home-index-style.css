@@ -1,0 +1,43 @@
+﻿body {
+}
+
+.banner {
+    background-image: url("https://bb159design.com/images/coverpage/07-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%81-%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B8%A5%E0%B9%84%E0%B8%A1%E0%B9%89.png");
+    background-size: cover; /* ขยายภาพให้เต็มพื้นที่ */
+    background-repeat: no-repeat; /* ไม่ให้ภาพซ้ำ */
+    background-position: center; /* จัดภาพไว้ตรงกลาง */
+    height: 300px;
+}
+
+.topic-text {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+    justify-content: space-between;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.card-pos {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.box-pos {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+
+    & .inside-pos
+{
+    border: 1px solid black;
+    border-right: none;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+    
+}

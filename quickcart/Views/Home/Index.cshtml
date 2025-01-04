@@ -2,16 +2,62 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@section Styles {
+    <link rel="stylesheet" href="~/css/home-index-style.css">
+}
 
 <div class="container-fluid">
-    <div class="row" style="background: red; height:500px;">
+    <div class="row banner"></div>
+    <div class="topic-text">
+        <p> Today Deals </p>
+        <a href=""> View All </a>
     </div>
     <div class="row">
-        <div class="col" style="background: yellow; height: 500px;"></div>
-        <div class="col" style="background: blue; height: 500px;"></div>
+
+        <div class="card-pos">
+            @* 4 card *@
+            <div class="card" style="width: 18rem;">
+                <img src="https://i.pinimg.com/236x/d5/8b/da/d58bda12a17dad7d09ee1a03e92334a2.jpg" class="card-img-top" alt="..." height="200px">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+                <img src="https://f.ptcdn.info/825/045/000/od7zcka6juFLmVtjHK8-o.jpg" class="card-img-top" alt="..." height="200px">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+                <img src="https://i.pinimg.com/236x/9b/f0/1b/9bf01b6cba440da3027e71e6eb591e09.jpg" class="card-img-top" alt="..." height="200px">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+                <img src="https://pbs.twimg.com/media/FvC2agzaMAY6z8S?format=jpg&name=large" class="card-img-top" alt="..." height="200px">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+
     </div>
+    <div class="row">
+        <div class="box-pos">
+            <div class="inside-pos">Free Delivery</div>
+            <div class="inside-pos">90 Days Return</div>
+            <div class="inside-pos">24/7 Support</div>
+        </div>
+
+    </div>
+    <div class="row" style="background: orange; height:500px;"></div>
 </div>
