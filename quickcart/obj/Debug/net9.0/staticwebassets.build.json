@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gU9H0semPFGxhtCr2/UuKwsSnccT5w4EFb2Wt6wvpgo=",
+  "Hash": "SjfL8ZFv5Kqqn7W3Ro3x8kuYijI8btviWiyllMyRQKw=",
   "Source": "quickcart",
   "BasePath": "_content/quickcart",
   "Mode": "Default",
@@ -164,12 +164,12 @@
       "OriginalItemSpec": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\obj\\Debug\\net9.0\\compressed\\4si3wzrqad-x0ghyhcr1e.gz",
+      "Identity": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\obj\\Debug\\net9.0\\compressed\\4si3wzrqad-qgf6skkj6u.gz",
       "SourceId": "quickcart",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/quickcart",
-      "RelativePath": "css/home-index-style#[.{fingerprint=x0ghyhcr1e}]?.css.gz",
+      "RelativePath": "css/home-index-style#[.{fingerprint=qgf6skkj6u}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -178,8 +178,8 @@
       "RelatedAsset": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\wwwroot\\css\\home-index-style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6m6a8c3eow",
-      "Integrity": "Ali/zmJhdFXPc4BWe+E+8EQ9Ky3E6XDjmOIpvRnXxlE=",
+      "Fingerprint": "ummyz2vxwb",
+      "Integrity": "FiKUG7IdwmIFXOgGLOTTIXq6+ahuhqjN+ECOv/akaEU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\wwwroot\\css\\home-index-style.css"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "x0ghyhcr1e",
-      "Integrity": "YTEXD8wo+NEnOXBrOon0k266iJ0HHgMeGnyi19gUaC4=",
+      "Fingerprint": "qgf6skkj6u",
+      "Integrity": "yv9wn5dG2TtqljxgC+RnrzwdcRktxuVH5jXA5hE75nk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\home-index-style.css"
@@ -2771,12 +2771,12 @@
   "Endpoints": [
     {
       "Route": "css/home-index-style.css",
-      "AssetFile": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\obj\\Debug\\net9.0\\compressed\\4si3wzrqad-x0ghyhcr1e.gz",
+      "AssetFile": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\obj\\Debug\\net9.0\\compressed\\4si3wzrqad-qgf6skkj6u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001845018450"
+          "Quality": "0.001862197393"
         }
       ],
       "ResponseHeaders": [
@@ -2786,15 +2786,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "541"
+          "Value": "536"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ali/zmJhdFXPc4BWe+E+8EQ9Ky3E6XDjmOIpvRnXxlE=\""
+          "Value": "\"FiKUG7IdwmIFXOgGLOTTIXq6+ahuhqjN+ECOv/akaEU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 05:17:32 GMT"
+          "Value": "Sat, 04 Jan 2025 05:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2814,13 +2814,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YTEXD8wo+NEnOXBrOon0k266iJ0HHgMeGnyi19gUaC4=\""
+          "Value": "W/\"yv9wn5dG2TtqljxgC+RnrzwdcRktxuVH5jXA5hE75nk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YTEXD8wo+NEnOXBrOon0k266iJ0HHgMeGnyi19gUaC4="
+          "Value": "sha256-yv9wn5dG2TtqljxgC+RnrzwdcRktxuVH5jXA5hE75nk="
         }
       ]
     },
@@ -2835,7 +2835,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1156"
+          "Value": "1085"
         },
         {
           "Name": "Content-Type",
@@ -2843,11 +2843,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YTEXD8wo+NEnOXBrOon0k266iJ0HHgMeGnyi19gUaC4=\""
+          "Value": "\"yv9wn5dG2TtqljxgC+RnrzwdcRktxuVH5jXA5hE75nk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 05:17:32 GMT"
+          "Value": "Sat, 04 Jan 2025 05:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2857,13 +2857,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YTEXD8wo+NEnOXBrOon0k266iJ0HHgMeGnyi19gUaC4="
+          "Value": "sha256-yv9wn5dG2TtqljxgC+RnrzwdcRktxuVH5jXA5hE75nk="
         }
       ]
     },
     {
       "Route": "css/home-index-style.css.gz",
-      "AssetFile": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\obj\\Debug\\net9.0\\compressed\\4si3wzrqad-x0ghyhcr1e.gz",
+      "AssetFile": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\obj\\Debug\\net9.0\\compressed\\4si3wzrqad-qgf6skkj6u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2872,7 +2872,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "541"
+          "Value": "536"
         },
         {
           "Name": "Content-Type",
@@ -2880,11 +2880,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ali/zmJhdFXPc4BWe+E+8EQ9Ky3E6XDjmOIpvRnXxlE=\""
+          "Value": "\"FiKUG7IdwmIFXOgGLOTTIXq6+ahuhqjN+ECOv/akaEU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 05:17:32 GMT"
+          "Value": "Sat, 04 Jan 2025 05:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2902,18 +2902,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ali/zmJhdFXPc4BWe+E+8EQ9Ky3E6XDjmOIpvRnXxlE="
+          "Value": "sha256-FiKUG7IdwmIFXOgGLOTTIXq6+ahuhqjN+ECOv/akaEU="
         }
       ]
     },
     {
-      "Route": "css/home-index-style.x0ghyhcr1e.css",
-      "AssetFile": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\obj\\Debug\\net9.0\\compressed\\4si3wzrqad-x0ghyhcr1e.gz",
+      "Route": "css/home-index-style.qgf6skkj6u.css",
+      "AssetFile": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\obj\\Debug\\net9.0\\compressed\\4si3wzrqad-qgf6skkj6u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001845018450"
+          "Quality": "0.001862197393"
         }
       ],
       "ResponseHeaders": [
@@ -2923,15 +2923,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "541"
+          "Value": "536"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ali/zmJhdFXPc4BWe+E+8EQ9Ky3E6XDjmOIpvRnXxlE=\""
+          "Value": "\"FiKUG7IdwmIFXOgGLOTTIXq6+ahuhqjN+ECOv/akaEU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 05:17:32 GMT"
+          "Value": "Sat, 04 Jan 2025 05:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2951,13 +2951,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YTEXD8wo+NEnOXBrOon0k266iJ0HHgMeGnyi19gUaC4=\""
+          "Value": "W/\"yv9wn5dG2TtqljxgC+RnrzwdcRktxuVH5jXA5hE75nk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x0ghyhcr1e"
+          "Value": "qgf6skkj6u"
         },
         {
           "Name": "label",
@@ -2965,12 +2965,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YTEXD8wo+NEnOXBrOon0k266iJ0HHgMeGnyi19gUaC4="
+          "Value": "sha256-yv9wn5dG2TtqljxgC+RnrzwdcRktxuVH5jXA5hE75nk="
         }
       ]
     },
     {
-      "Route": "css/home-index-style.x0ghyhcr1e.css",
+      "Route": "css/home-index-style.qgf6skkj6u.css",
       "AssetFile": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\wwwroot\\css\\home-index-style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2980,7 +2980,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1156"
+          "Value": "1085"
         },
         {
           "Name": "Content-Type",
@@ -2988,11 +2988,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YTEXD8wo+NEnOXBrOon0k266iJ0HHgMeGnyi19gUaC4=\""
+          "Value": "\"yv9wn5dG2TtqljxgC+RnrzwdcRktxuVH5jXA5hE75nk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 05:17:32 GMT"
+          "Value": "Sat, 04 Jan 2025 05:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3002,7 +3002,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x0ghyhcr1e"
+          "Value": "qgf6skkj6u"
         },
         {
           "Name": "label",
@@ -3010,13 +3010,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YTEXD8wo+NEnOXBrOon0k266iJ0HHgMeGnyi19gUaC4="
+          "Value": "sha256-yv9wn5dG2TtqljxgC+RnrzwdcRktxuVH5jXA5hE75nk="
         }
       ]
     },
     {
-      "Route": "css/home-index-style.x0ghyhcr1e.css.gz",
-      "AssetFile": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\obj\\Debug\\net9.0\\compressed\\4si3wzrqad-x0ghyhcr1e.gz",
+      "Route": "css/home-index-style.qgf6skkj6u.css.gz",
+      "AssetFile": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\obj\\Debug\\net9.0\\compressed\\4si3wzrqad-qgf6skkj6u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3025,7 +3025,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "541"
+          "Value": "536"
         },
         {
           "Name": "Content-Type",
@@ -3033,11 +3033,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ali/zmJhdFXPc4BWe+E+8EQ9Ky3E6XDjmOIpvRnXxlE=\""
+          "Value": "\"FiKUG7IdwmIFXOgGLOTTIXq6+ahuhqjN+ECOv/akaEU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 05:17:32 GMT"
+          "Value": "Sat, 04 Jan 2025 05:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3055,7 +3055,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x0ghyhcr1e"
+          "Value": "qgf6skkj6u"
         },
         {
           "Name": "label",
@@ -3063,7 +3063,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ali/zmJhdFXPc4BWe+E+8EQ9Ky3E6XDjmOIpvRnXxlE="
+          "Value": "sha256-FiKUG7IdwmIFXOgGLOTTIXq6+ahuhqjN+ECOv/akaEU="
         }
       ]
     },
