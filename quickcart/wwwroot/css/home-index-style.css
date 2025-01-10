@@ -38,3 +38,14 @@
 }
     
 }
+
+.detail-box{
+    display:flex;
+    justify-content:center;
+
+    & .left-box-pic{
+                       width: auto;
+                       height: auto;
+                       object-fit: cover;
+                   }
+}

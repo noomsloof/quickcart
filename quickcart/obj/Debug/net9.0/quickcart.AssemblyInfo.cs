@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("quickcart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+644654996557d40b6e554d66e114864ac1ccf711")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29e83970390911b34deef4b38877412d6118d470")]
 [assembly: System.Reflection.AssemblyProductAttribute("quickcart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("quickcart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
