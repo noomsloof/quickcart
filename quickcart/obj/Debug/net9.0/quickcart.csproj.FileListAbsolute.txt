@@ -97,7 +97,6 @@ C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\obj\Debug\net9.0\c
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\obj\Debug\net9.0\compressed\zthmepksvk-o1o13a6vjx.gz
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\obj\Debug\net9.0\compressed\ewl3nqfvh5-2z0ns9nrw6.gz
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\obj\Debug\net9.0\compressed\jxox8ex8ka-muycvpuwrr.gz
-C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\obj\Debug\net9.0\compressed\4si3wzrqad-qgf6skkj6u.gz
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\bin\Debug\net9.0\Humanizer.dll
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -285,3 +284,4 @@ C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\bin\Debug\net9.0\z
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\obj\Debug\net9.0\quickcart.csproj.AssemblyReference.cache
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\obj\Debug\net9.0\quickcart.csproj.Up2Date
+C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\obj\Debug\net9.0\compressed\4si3wzrqad-pn0gtp2cbn.gz
