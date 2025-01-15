@@ -284,4 +284,4 @@ C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\bin\Debug\net9.0\z
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\obj\Debug\net9.0\quickcart.csproj.AssemblyReference.cache
 C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\obj\Debug\net9.0\quickcart.csproj.Up2Date
-C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\obj\Debug\net9.0\compressed\4si3wzrqad-pn0gtp2cbn.gz
+C:\Users\thebe\OneDrive\Desktop\quickcart\quickcart\quickcart\obj\Debug\net9.0\compressed\4si3wzrqad-oqjtyn8340.gz

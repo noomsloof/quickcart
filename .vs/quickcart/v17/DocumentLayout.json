@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "quickcart\\Views\\Home\\ShowDetail.cshtml",
               "ToolTip": "C:\\Users\\thebe\\OneDrive\\Desktop\\quickcart\\quickcart\\quickcart\\Views\\Home\\ShowDetail.cshtml",
               "RelativeToolTip": "quickcart\\Views\\Home\\ShowDetail.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwC8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-10T09:31:12.449Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "quickcart\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T09:26:20.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T09:26:20.883Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "quickcart\\wwwroot\\css\\home-index-style.css",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-04T00:04:41.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T00:04:41.604Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "quickcart\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T09:47:06.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T09:47:06.291Z"
             }
           ]
         }
